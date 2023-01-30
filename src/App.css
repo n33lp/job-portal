@@ -1,0 +1,126 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+body {
+  font-family: Arial, sans-serif;
+  background-color: #e6ecff ;
+  /*background-image: linear-gradient(to right top, #a51da0, #9b0a73, #860d4f, #6c1634, #501a21); */
+}
+
+h1, h2, h3 {
+  text-align: center;
+}
+
+form {
+  margin-top: 10px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+li {
+  border-radius: 25px;
+  background-color: #ffffff;
+}
+
+#job-listings {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+#job-listings {
+  display: grid;
+  padding: 20px;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 20px;
+}
+
+#job-listings li {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+footer {
+  margin-top: 10px;
+  background-color: #b3c6ff;
+  color: white;
+  text-align: center;
+  padding: 1em;
+}
+header {
+  background-color: #b3c6ff;
+  color: white;
+  text-align: center;
+  padding: 1em;
+}
+
+
+/*Button by amazon*/
+/*https://getcssscan.com/css-buttons-examples*/
+.button-13 {
+background-color: #fff;
+border: 1px solid #d5d9d9;
+border-radius: 8px;
+box-shadow: rgba(213, 217, 217, .5) 0 2px 5px 0;
+box-sizing: border-box;
+color: #0f1111;
+cursor: pointer;
+display: inline-block;
+font-family: "Amazon Ember",sans-serif;
+font-size: 13px;
+line-height: 29px;
+padding: 0 10px 0 11px;
+position: relative;
+text-align: center;
+text-decoration: none;
+user-select: none;
+-webkit-user-select: none;
+touch-action: manipulation;
+vertical-align: middle;
+width: 100px;
+}
+
+.button-13:hover {
+background-color: #f7fafa;
+}
+
+.button-13:focus {
+border-color: #008296;
+box-shadow: rgba(213, 217, 217, .5) 0 2px 5px 0;
+outline: 0;
+}
+

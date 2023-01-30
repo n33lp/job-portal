@@ -1,0 +1,122 @@
+[
+    {
+      "title": "Software Engineer",
+      "company": "ACME Inc.",
+      "location": "San Francisco, CA",
+      "description": "We are seeking a highly skilled software engineer to join our team. The successful candidate will have experience with Java, JavaScript, and React.",
+      "salary": "$120,000 - $150,000",
+      "apply_url": "https://www.acme.com/apply"
+    },
+    {
+      "title": "Full Stack Developer",
+      "company": "XYZ Corp.",
+      "location": "New York, NY",
+      "description": "We are seeking a full stack developer with experience in Python and Django. The successful candidate will be responsible for building and maintaining our web applications.",
+      "salary": "$100,000 - $130,000",
+      "apply_url": "https://www.xyz.com/apply"
+    },
+    {
+      "title": "Front-end Developer",
+      "company": "ABC Inc.",
+      "location": "Los Angeles, CA",
+      "description": "We are seeking a front-end developer with experience in HTML, CSS, and JavaScript. The successful candidate will be responsible for building and maintaining our company website.",
+      "salary": "$90,000 - $110,000",
+      "apply_url": "https://www.abc.com/apply"
+    },
+    {
+      "title": "Data Scientist",
+      "company": "Big Data Inc.",
+      "location": "Seattle, WA",
+      "description": "We are seeking a data scientist with experience in machine learning and statistical modeling. The successful candidate will be responsible for analyzing and interpreting large datasets.",
+      "salary": "$140,000 - $180,000",
+      "apply_url": "https://www.bigdata.com/apply"
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": "CloudTech Inc.",
+      "location": "Austin, TX",
+      "description": "We are seeking a DevOps Engineer with experience in AWS and Linux. The successful candidate will be responsible for maintaining and improving our cloud infrastructure.",
+      "salary": "$120,000 - $160,000",
+      "apply_url": "https://www.cloudtech.com/apply"
+    },
+    {
+      "title": "Front-end Developer",
+      "company": "Web Innovations",
+      "location": "Seattle, WA",
+      "description": "We are seeking a front-end developer with experience in React and Angular. The successful candidate will be responsible for building and maintaining our company website and web applications.",
+      "salary": "$100,000 - $120,000",
+      "apply_url": "https://www.webinnovations.com/apply"
+    },
+    {
+      "title": "Mobile Developer",
+      "company": "AppWorks Inc.",
+      "location": "Chicago, IL",
+      "description": "We are seeking a mobile developer with experience in iOS and Android development. The successful candidate will be responsible for building and maintaining our mobile applications.",
+      "salary": "$100,000 - $140,000",
+      "apply_url": "https://www.appworks.com/apply"
+    },
+    {
+      "title": "Security Analyst",
+      "company": "Infosec Inc.",
+      "location": "Seattle, WA",
+      "description": "We are seeking a security analyst with experience in vulnerability management and penetration testing. The successful candidate will be responsible for identifying and mitigating potential security risks to our organization.",
+      "salary": "$110,000 - $150,000",
+      "apply_url": "https://www.infosec.com/apply"
+    },
+    {
+      "title": "Network Engineer",
+      "company": "Networks Inc.",
+      "location": "Boston, MA",
+      "description": "We are seeking a Network Engineer with experience in Cisco and Juniper. The successful candidate will be responsible for designing, implementing and maintaining our network infrastructure.",
+      "salary": "$120,000 - $150,000",
+      "apply_url": "https://www.networks.com/apply"
+    },
+    {
+      "title": "Security Analyst",
+      "company": "CyberSecurity Corp.",
+      "location": "Houston, TX",
+      "description": "We are seeking a Security Analyst with experience in SIEM and threat hunting. The successful candidate will be responsible for monitoring and analyzing security events to identify potential threats.",
+      "salary": "$110,000 - $140,000",
+      "apply_url": "https://www.cybersecurity.com/apply"
+    },
+    {
+      "title": "IT Project Manager",
+      "company": "Tech Solutions Inc.",
+      "location": "Philadelphia, PA",
+      "description": "We are seeking an IT Project Manager with experience in Agile methodologies. The successful candidate will be responsible for managing and delivering multiple IT projects on time and within budget.",
+      "salary": "$100,000 - $130,000",
+      "apply_url": "https://www.techsolutions.com/apply"
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Tech Innovations Inc.",
+      "location": "San Diego, CA",
+      "description": "We are seeking a software engineer with experience in C++ and Linux. The successful candidate will be responsible for developing and maintaining our company's core systems.",
+      "salary": "$120,000 - $160,000",
+      "apply_url": "https://www.techinnovations.com/apply"
+    },
+    {
+      "title": "Data Scientist",
+      "company": "Data-Driven Solutions Inc.",
+      "location": "Boston, MA",
+      "description": "We are seeking a data scientist with experience in machine learning and natural language processing. The successful candidate will be responsible for analyzing large sets of data to extract valuable insights and inform business decisions.",
+      "salary": "$120,000 - $160,000",
+      "apply_url": "https://www.datadrivensolutions.com/apply"
+    },
+    {
+      "title": "Software Engineer",
+      "company": "AI Innovations Inc.",
+      "location": "Denver, CO",
+      "description": "We are seeking a software engineer with experience in Python and Tensorflow. The successful candidate will be responsible for developing and maintaining our AI-based products.",
+      "salary": "$100,000 - $140,000",
+      "apply_url": "https://www.aiinnovations.com/apply"
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Software Solutions Inc.",
+      "location": "Phoenix, AZ",
+      "description": "We are seeking a software engineer with experience in C# and .NET. The successful candidate will be responsible for developing and maintaining our company's software products.",
+      "salary": "$90,000 - $120,000",
+      "apply_url": "https://www.softwaresolutions.com/apply"
+    }
+  ]
